@@ -1,0 +1,13 @@
+{  "name": "illuminate-example/questions",
+	"description": "Proyecto a5",
+	"type": "project",
+	"autoload":{
+		"psr-4":{
+			"Rentit\\":"src/"
+		}
+	},
+	"require": {
+		"ext.json": "*",
+		"illuminate/database": "^6.12"
+	}
+}
